@@ -1,3 +1,3 @@
 # The Wild Oasis
 
-Main project in Jonas Schmedtmanns's Ultimate React Course
+Version without final features like dark mode. Practise of modal windows + styled components. Vercel + Netlify.
